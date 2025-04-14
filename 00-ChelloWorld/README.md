@@ -1,6 +1,6 @@
 ## Compilador Seleccionado
 
-# El compilador seleccionado es GCC, versión 14.2.0, que soporta el estándar C23.
+### El compilador seleccionado es GCC, versión 14.2.0, que soporta el estándar C23.
 
 gcc.exe (Rev3, Built by MSYS2 project) 14.2.0
 Copyright (C) 2024 Free Software Foundation, Inc.
